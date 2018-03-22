@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns=""
+    id="ar-drone"
+    version="0.3.3">
+
+    <name>ar-drone</name>
+    <description>Drone control</description>
+    <author>Author</author>
+
+    <engines>
+        <engine name="cordova" version=">=3.0.0" />
+    </engines>
+
+    <repo>https://github.com/du-lima/node-ar-drone.git</repo>
+    <issue>https://github.com/du-lima/node-ar-drone/issues</issue>
+
+    <keywords>ar-drone</keywords>
+
+    <license>License</license>
+</plugin>
